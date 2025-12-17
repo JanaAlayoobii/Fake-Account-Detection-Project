@@ -26,12 +26,6 @@ A trained **Random Forest classifier** is deployed locally and integrated with a
 - **`Classification - Instagram Fake Users.ipynb`**  
   Jupyter Notebook used for data preprocessing, feature engineering, model training, and evaluation.
 
-- **`X_train_scaled.csv`**  
-  Scaled training feature set used during model development.
-
-- **`X_test_scaled.csv`**  
-  Scaled testing feature set used for model evaluation.
-
 ---
 
 ### Chrome Extension (Manifest V3)
